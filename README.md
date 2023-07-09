@@ -18,7 +18,7 @@
 [Front-end](#front-end) <br>
 [Conclusions](#conclusions) <br>
 [References](#references) <br>
-[About Me](#about-me)
+
 
 # Introduction
 
@@ -1164,6 +1164,4 @@ A **reference guide** to the 11 segments and suggested actions per segment is in
 
 [**Google Cloud** - Predicting Customer Lifetime Value with AI Platform](https://cloud.google.com/architecture/clv-prediction-with-offline-training-intro#overview)
 
-# About Me
 
-[Daniel Isidro](https://www.linkedin.com/in/daniel-isidro/)

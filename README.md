@@ -26,7 +26,7 @@ I wanted to **create a tool** that would be useful to the sales managers in thos
 
 **RFM** is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries.
 
-This project focuses on doing RFM analysis on company sales and creating a **data visualization dashboard** showcasing **customer segmentation** that I can share with colleagues in the countries.
+This project focuses on doing RFM analysis on company sales and creating a **data visualization dashboard** showcasing **customer segmentation** that I can share with stakeholders.
 
 ![Customer Segmentation Small](https://github.com/daniel-isidro/customer_segmentation/blob/main/media/customer_segmentation_small.png?raw=true)
 
